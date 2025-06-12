@@ -1,3 +1,16 @@
+python-dotenv
+pydantic
+langchain
 langchain-community
 langchain-core
 streamlit
+langchain-openai
+langchain-groq
+defusedxml
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-huggingface
+sentence-transformers
