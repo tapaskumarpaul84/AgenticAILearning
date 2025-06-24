@@ -17,3 +17,4 @@ sentence-transformers
 faiss-cpu
 pinecone
 langchain-pinecone
+langchain-chroma
