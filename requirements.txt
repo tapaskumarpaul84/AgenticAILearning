@@ -18,3 +18,5 @@ faiss-cpu
 pinecone
 langchain-pinecone
 langchain-chroma
+duckduckgo-search
+yfinance
