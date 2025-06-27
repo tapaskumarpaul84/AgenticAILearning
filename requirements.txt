@@ -20,3 +20,4 @@ langchain-pinecone
 langchain-chroma
 duckduckgo-search
 yfinance
+matplotlib
