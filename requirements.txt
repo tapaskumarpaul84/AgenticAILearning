@@ -21,3 +21,6 @@ langchain-chroma
 duckduckgo-search
 yfinance
 matplotlib
+autogen-agentchat
+autogen-core
+autogen-ext
