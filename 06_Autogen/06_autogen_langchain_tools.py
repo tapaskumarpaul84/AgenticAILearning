@@ -46,7 +46,7 @@ async def search_agent(query):
     print(result.messages[-1].content)
 
 if (__name__)=="__main__":
-    query="Who won the IPL 2025?"
+    query="Who won the last IPL 2025?"
     asyncio.run(search_agent(query))
 
 
