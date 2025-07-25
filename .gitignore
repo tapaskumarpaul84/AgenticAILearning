@@ -2,3 +2,6 @@
 gitkeypair
 gitkeypair.pub
 .vscode
+__pycache__
+*.python
+*.bash

@@ -24,3 +24,5 @@ matplotlib
 autogen-agentchat
 autogen-core
 autogen-ext
+docker
+autogen-ext[docker]
