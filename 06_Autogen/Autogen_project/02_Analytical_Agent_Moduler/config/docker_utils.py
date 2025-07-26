@@ -1,9 +1,10 @@
 from autogen_ext.code_executors.docker import DockerCommandLineCodeExecutor
-from config.constants import WORK_DIR_DOCKER,TIMEOUT_DOCKER
+from config.constants import WORK_DIR_DOCKER,TIMEOUT_DOCKER,DOCKER_IMAGE
 
 
 def getDockerCommandLineExecutor():
     docker=DockerCommandLineCodeExecutor(
+        image=DOCKER_IMAGE,
         work_dir=WORK_DIR_DOCKER,
         timeout=TIMEOUT_DOCKER
     )
